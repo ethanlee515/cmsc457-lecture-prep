@@ -18,4 +18,5 @@ method Main() {
   var vals := [11, 22, 55, 44, 33];
   var y := Maximum(vals);
   print y;
+  print "\n";
 }
